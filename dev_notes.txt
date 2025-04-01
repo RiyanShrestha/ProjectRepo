@@ -1,1 +1,3 @@
 "Updates from main brach" 
+"More detailed development notes." 
+
